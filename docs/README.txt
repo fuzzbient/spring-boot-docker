@@ -1,0 +1,1 @@
+$ docker run -e "SPRING_PROFILES_ACTIVE=dev" -p 8080:8080 -t gs-spring-boot-docker
